@@ -1,0 +1,270 @@
+
+
+
+
+
+
+Fun Cat Facts for Kids - Interesting Facts about Cats & Kittens
+
+
+<!--
+.style3 {color: #0000FF}
+.style5 {color: #000000}
+.style1 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style17 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 64px;
+	color: #FFFFFF;
+}
+.style24 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+-->
+
+
+a { text-decoration:none }
+
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+
+<!--
+.style33 {font-size: 13px}
+.style34 {
+	font-size: 24px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #999900;
+}
+.style51 {font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+.style51 {font-size: 13px}
+-->
+
+
+
+
+
+window.google_analytics_uacct = "UA-1298098-3";
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Check out our awesome range of  animal facts for kids and learn some fun  trivia about our friends in the animal kingdom. 
+
+Fun Cat Facts for Kids
+
+Check out these fun cat facts for kids. Learn  about cats as pets, their unique behavior, how long they sleep and much more.
+Read on and enjoy the wide range of interesting facts about cats and kittens.
+
+ 
+
+<!--
+google_ad_client = "ca-pub-4643150179421087";
+/* sci facts 300 */
+google_ad_slot = "6448251004";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+    
+
+
+
+
+
+
+
+<!--
+google_ad_client = "pub-4643150179421087";
+/* sci facts 160 */
+google_ad_slot = "5655995158";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+Cats are one of, if not the most, popular pet in the world.
+
+
+
+
+There are over 500 million domestic cats in the world.
+
+
+
+
+Cats and humans have been associated for nearly 10000 years.
+
+
+
+
+Cats conserve energy by sleeping for an average of 13 to14  hours a day.
+
+
+
+
+Cats have flexible bodies and teeth adapted for hunting small  animals such as mice and rats.
+
+
+
+
+A group of cats is called a clowder, a male cat is called a  tom, a female cat is called a molly or queen while young cats are called  kittens.
+
+
+
+
+Domestic cats usually weigh around 4 kilograms  (8 lb 13 oz) to 5 kilograms (11 lb 0 oz).
+
+
+
+
+The heaviest domestic cat on record is 21.297 kilograms  (46 lb 15.2 oz).
+
+
+
+
+Cats can be lethal hunters and very sneaky, when they walk  their back paws step almost exactly in the same place as the front paws did  beforehand, this keeps noise to a minimum and limits visible tracks.
+
+
+
+
+Cats have powerful night vision, allowing them to see at  light levels six times lower than what a human needs in order to see.
+
+
+
+
+Cats also have excellent hearing and a powerful sense of  smell.
+
+
+
+
+Older cats can at times act aggressively towards kittens.
+
+
+
+
+Domestic cats love to play, this is especially true with  kittens who love to chase toys and play fight. Play fighting among kittens may  be a way for them to practice and learn skills for hunting and fighting.
+
+
+
+
+On average cats live for around 12 to 15 years.
+
+
+
+
+Cats spend a large amount of time licking their coats to  keep them clean.
+
+
+
+
+Feral cats are often seen as pests and threats to native animals.
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+<!--
+google_ad_client = "pub-4643150179421087";
+/* sci facts 728 */
+google_ad_slot = "9761313702";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+
+
+ 
+
+
+
+
+
+ 
+Science Kids ©  |  Home  |  About  |  Topics  |  Experiments  |  Games  |  Facts  |  Quizzes  |  Projects  |  Lessons  |  Images  |  Videos  |  Privacy  |  Sitemap  |  Updated: Jul 8, 2016
+
+
+
+
+_uacct = "UA-1298098-3";
+urchinTracker();
+
+
+
